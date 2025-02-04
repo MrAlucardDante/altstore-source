@@ -1,32 +1,59 @@
 {
+    "name": "MAD's Repo",
+    "subtitle": "MrAlucardDante's Alstore repo",
+    "description": "Tweaked versions of popular apps",
+    "iconURL": "https://raw.githubusercontent.com/MrAlucardDante/altstore-source/refs/heads/main/images/icon.png",
+    "website": "https://github.com/MrAlucardDante/altstore-source",
+    "tintColor": "#8A2629",
+    "featuredApps": [
+        "com.example.myapp",
+        "com.google.ios.youtubemusic"
+    ],
     "apps": [
         {
-            "beta": false,
+            "name": "YTMusicUltimate",
             "bundleIdentifier": "com.google.ios.youtubemusic",
             "developerName": "Dayanch96",
-            "downloadURL": "https://www.dropbox.com/scl/fi/okvptgh7knhttx0ngdx8v/YTMusicUltimate_8.04.2_2.3.1.ipa?rlkey=vjjjxrrmcqvhjpde0fk1lqcro&st=z7mufrsq&dl=1",
-            "iconURL": "https://raw.githubusercontent.com/MrAlucardDante/altstore-source/refs/heads/main/images/youtubemusic-logo.png",
-            "localizedDescription": "A modified version of Youtube Music supercharged with YTMusicUltimate",
-            "name": "YTMusicUltimate",
-            "screenshotURLs": [
-                "https://user-images.githubusercontent.com/38832025/235781207-6d1ad44e-0c32-4aec-9c75-cb928ca8a0d3.png?raw=true)"
-            ],
-            "size": 79984303,
             "subtitle": "The best enhancement for the YouTube Music on iOS.",
-            "tintColor": "ec421b",
-            "version": "8.04.2",
-            "versionDate": "2020-03-24T14:00:00-07:00",
-            "versionDescription": "Current YouTube Music IPA: 8.04.2\nCurrent YTMusicUltimate Version: 2.3.1\nCurrent App Compatibility: iOS/iPadOS 15.0 or later\n\nRELEASE 8.04.2-2.3.1: (2025-01-28)\n- Updated Youtube Music to v8.04.2"
+            "localizedDescription": "A modified version of Youtube Music supercharged with YTMusicUltimate",
+            "iconURL": "https://raw.githubusercontent.com/MrAlucardDante/altstore-source/refs/heads/main/images/youtubemusic-logo.png",
+            "tintColor": "#EC421B",
+            "screenshots": [
+                {
+                    "imageURL": "https://user-images.githubusercontent.com/38832025/235781207-6d1ad44e-0c32-4aec-9c75-cb928ca8a0d3.png?raw=true)",
+                    "width": 1000,
+                    "height": 721
+                }
+            ],
+            "versions": [
+                {
+                    "version": "8.05.2",
+                    "date": "2025-03-04T22:00:00+01:00",
+                    "size": 79484303,
+                    "downloadURL": "https://www.dropbox.com/scl/fi/wmxd0j5leggidyesiv145/YTMusicUltimate_8.05.2_2.3.1.ipa?rlkey=ij941gvhuz9bkcllaset1li5q&st=5i66g1wt&dl=1",
+                    "localizedDescription": "New features and bug fixes.",
+                    "minOSVersion": "15.0"
+                },
+                {
+                    "version": "8.04.2",
+                    "date": "2025-01-28T08:00:00+01:00",
+                    "size": 79984303,
+                    "downloadURL": "https://www.dropbox.com/scl/fi/okvptgh7knhttx0ngdx8v/YTMusicUltimate_8.04.2_2.3.1.ipa?rlkey=vjjjxrrmcqvhjpde0fk1lqcro&st=z7mufrsq&dl=1",
+                    "localizedDescription": "ICurrent YouTube Music IPA: 8.04.2\nCurrent YTMusicUltimate Version: 2.3.1\nCurrent App Compatibility: iOS/iPadOS 15.0 or later\n\nRELEASE 8.04.2-2.3.1: (2025-01-28)\n- Updated Youtube Music to v8.04.2",
+                    "minOSVersion": "15.0"
+                }
+            ],
+            "appPermissions": {}
         },
         {
-            "beta": false,
+            "name": "YoutubePlus",
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "Dayanch96",
-            "downloadURL": "https://www.dropbox.com/scl/fi/m9kgtigm5ro80i8ohhafw/YouTubePlus_20.04.1_5.1.ipa?rlkey=b8kkorg4dfdd9syz7jlvawcpm&st=eh37bo8b&dl=1",
-            "iconURL": "https://raw.githubusercontent.com/MrAlucardDante/altstore-source/refs/heads/main/images/youtube-logo.png",
+            "subtitle": "YouTubePlus: YouTube enhancement providing no ads, background playback, customizable navigation and tab bars; includes Advanced mode with over 50 additional options for enhanced customization.",
             "localizedDescription": "YouTubePlus: YouTube enhancement providing no ads, background playback, customizable navigation and tab bars; includes Advanced mode with over 50 additional options for enhanced customization.\niSponsorBlock: Skips annoying sponsor ads inside videos. iSponsorBlock is based on SponsorBlock engine. Basically, this is the iOS version of the SponsorBlock extension.\nYouPiP: Enable YouTube’s native PiP. More options are in YouTube Settings => General.\nYTUHD: Unlock VP9 codec and in effect, enables video quality of 2K and 4K. You can configure YTUHD in YouTube’s Settings - Video quality preferences.\nYouTube Dislike Return: Brings back Dislike counts under YouTube videos using ReturnYoutubeDislike’s API.",
-            "name": "YoutubePlus",
-            "screenshotURLs": [
+            "iconURL": "https://raw.githubusercontent.com/MrAlucardDante/altstore-source/refs/heads/main/images/youtube-logo.png",
+            "tintColor": "#E22A41",
+            "screenshots": [
                 "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr1.jpg",
                 "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr2.jpg",
                 "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr3.jpg",
@@ -37,16 +64,26 @@
                 "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr8.jpg",
                 "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr9.jpg"
             ],
-            "size": 112795436,
-            "subtitle": "YouTubePlus: YouTube enhancement providing no ads, background playback, customizable navigation and tab bars; includes Advanced mode with over 50 additional options for enhanced customization.",
-            "tintColor": "e22a41",
-            "version": "20.04.1",
-            "versionDate": "2025-01-28T22:00:00+01:00",
-            "versionDescription": "Current YouTube IPA: 20.04.1\nCurrent YTLitePlus Version: 5.1.0\nCurrent App Compatibility: iOS/iPadOS 15.0 or later\n\nRELEASE 20.04.1-5.1.0: (2024-01-28)\n- Updated Youtube to 20.04.1"
+            "versions": [
+                {
+                    "version": "20.05.4",
+                    "date": "2025-02-03T22:00:00+01:00",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/0gjv5ank9vzyq2uy5nkzm/YouTubePlus__20.05.4_5.1.ipa?rlkey=4kqwhi87qczyccp97cqqrzk1i&st=tjb3lxke&dl=1",
+                    "localizedDescription": "Current YouTube IPA: 20.05.4\nCurrent YTLitePlus Version: 5.1.0\nCurrent App Compatibility: iOS/iPadOS 15.0 or later\n\nRELEASE 20.05.4-5.1.0: (2024-02-03)\n- Updated Youtube to 20.05.4",
+                    "size": 113095436,
+                    "minOSVersion": "15.0"
+                },
+                {
+                    "version": "20.04.1",
+                    "date": "2025-01-28T08:00:00+01:00",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/m9kgtigm5ro80i8ohhafw/YouTubePlus_20.04.1_5.1.ipa?rlkey=b8kkorg4dfdd9syz7jlvawcpm&st=eh37bo8b&dl=1",
+                    "localizedDescription": "Current YouTube IPA: 20.04.1\nCurrent YTLitePlus Version: 5.1.0\nCurrent App Compatibility: iOS/iPadOS 15.0 or later\n\nRELEASE 20.04.1-5.1.0: (2024-01-28)\n- Updated Youtube to 20.04.1",
+                    "size": 112795436,
+                    "minOSVersion": "15.0"
+                }
+            ],
+            "appPermissions": {}
         }
     ],
-    "identifier": "com.mad.repo",
-    "name": "MAD's Repo",
-    "news": [],
-    "userInfo": {}
+    "news": []
 }
