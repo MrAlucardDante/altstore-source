@@ -4,6 +4,24 @@
             "beta": false,
             "bundleIdentifier": "com.google.ios.youtubemusic",
             "developerName": "Dayanch96",
+            "downloadURL": "https://www.dropbox.com/scl/fi/e0hacuuk8ksbk4sysmrrj/YTMusicUltimate_8.06.2_2.3.1.ipa?rlkey=yg4scrt5mwst80c8ab66v60wl&st=vus186cg&dl=1",
+            "iconURL": "https://raw.githubusercontent.com/MrAlucardDante/altstore-source/refs/heads/main/images/youtubemusic-logo.png",
+            "localizedDescription": "A modified version of Youtube Music supercharged with YTMusicUltimate",
+            "name": "YTMusicUltimate",
+            "screenshotURLs": [
+                "https://user-images.githubusercontent.com/38832025/235781207-6d1ad44e-0c32-4aec-9c75-cb928ca8a0d3.png?raw=true)"
+            ],
+            "size": 79543278,
+            "subtitle": "The best enhancement for the YouTube Music on iOS.",
+            "tintColor": "ec421b",
+            "version": "8.06.2",
+            "versionDate": "2025-03-10T22:00:00+01:00",
+            "versionDescription": "Current YouTube Music IPA: 8.06.2\nCurrent YTMusicUltimate Version: 2.3.1\nCurrent App Compatibility: iOS/iPadOS 15.0 or later\n\nRELEASE 8.06.2-2.3.1: (2025-02-10)\n- Updated Youtube Music to v8.06.2"
+        },
+        {
+            "beta": false,
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "developerName": "Dayanch96",
             "downloadURL": "https://www.dropbox.com/scl/fi/wmxd0j5leggidyesiv145/YTMusicUltimate_8.05.2_2.3.1.ipa?rlkey=ij941gvhuz9bkcllaset1li5q&st=5i66g1wt&dl=1",
             "iconURL": "https://raw.githubusercontent.com/MrAlucardDante/altstore-source/refs/heads/main/images/youtubemusic-logo.png",
             "localizedDescription": "A modified version of Youtube Music supercharged with YTMusicUltimate",
@@ -16,7 +34,7 @@
             "tintColor": "ec421b",
             "version": "8.05.2",
             "versionDate": "2025-03-04T22:00:00+01:00",
-            "versionDescription": "Current YouTube Music IPA: 8.04.2\nCurrent YTMusicUltimate Version: 2.3.1\nCurrent App Compatibility: iOS/iPadOS 15.0 or later\n\nRELEASE 8.04.2-2.3.1: (2025-01-28)\n- Updated Youtube Music to v8.04.2"
+            "versionDescription": "Current YouTube Music IPA: 8.05.2\nCurrent YTMusicUltimate Version: 2.3.1\nCurrent App Compatibility: iOS/iPadOS 15.0 or later\n\nRELEASE 8.05.2-2.3.1: (2025-02-04)\n- Updated Youtube Music to v8.05.2"
         },
         {
             "beta": false,

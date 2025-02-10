@@ -6,7 +6,7 @@
     "website": "https://github.com/MrAlucardDante/altstore-source",
     "tintColor": "#8A2629",
     "featuredApps": [
-        "com.example.myapp",
+        "com.google.ios.youtube",
         "com.google.ios.youtubemusic"
     ],
     "apps": [
@@ -27,11 +27,19 @@
             ],
             "versions": [
                 {
+                    "version": "8.06.2",
+                    "date": "2025-03-10T22:00:00+01:00",
+                    "size": 79543278,
+                    "downloadURL": "https://www.dropbox.com/scl/fi/e0hacuuk8ksbk4sysmrrj/YTMusicUltimate_8.06.2_2.3.1.ipa?rlkey=yg4scrt5mwst80c8ab66v60wl&st=vus186cg&dl=1",
+                    "localizedDescription": "Current YouTube Music IPA: 8.06.2\nCurrent YTMusicUltimate Version: 2.3.1\nCurrent App Compatibility: iOS/iPadOS 15.0 or later\n\nRELEASE 8.06.2-2.3.1: (2025-02-10)\n- Updated Youtube Music to v8.06.2",
+                    "minOSVersion": "15.0"
+                },
+                {
                     "version": "8.05.2",
-                    "date": "2025-03-04T22:00:00+01:00",
+                    "date": "2025-02-04T22:00:00+01:00",
                     "size": 79484303,
                     "downloadURL": "https://www.dropbox.com/scl/fi/wmxd0j5leggidyesiv145/YTMusicUltimate_8.05.2_2.3.1.ipa?rlkey=ij941gvhuz9bkcllaset1li5q&st=5i66g1wt&dl=1",
-                    "localizedDescription": "Current YouTube Music IPA: 8.05.4\nCurrent YTMusicUltimate Version: 2.3.1\nCurrent App Compatibility: iOS/iPadOS 15.0 or later\n\nRELEASE 8.05.4-2.3.1: (2025-02-03)\n- Updated Youtube Music to v8.05.4",
+                    "localizedDescription": "Current YouTube Music IPA: 8.05.2\nCurrent YTMusicUltimate Version: 2.3.1\nCurrent App Compatibility: iOS/iPadOS 15.0 or later\n\nRELEASE 8.05.2-2.3.1: (2025-02-04)\n- Updated Youtube Music to v8.05.2",
                     "minOSVersion": "15.0"
                 },
                 {
