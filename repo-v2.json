@@ -27,6 +27,14 @@
             ],
             "versions": [
                 {
+                    "version": "8.08.5",
+                    "date": "2025-03-01T22:00:00+01:00",
+                    "size": 80686031,
+                    "downloadURL": "https://www.dropbox.com/scl/fi/v6qqvxovicnwty9ehgoiy/YTMusicUltimate_8.08.5_2.3.1.ipa?rlkey=j8feh91nhmfjym7ihvxi1d2ds&st=g9hpsno5&dl=1",
+                    "localizedDescription": "Current YouTube Music IPA: 8.08.5\nCurrent YTMusicUltimate Version: 2.3.1\nCurrent App Compatibility: iOS/iPadOS 15.0 or later\n\nRELEASE 8.08.5-2.3.1: (2025-03-01)\n- Updated Youtube Music to v8.08.5",
+                    "minOSVersion": "15.0"
+                },
+                {
                     "version": "8.07.4",
                     "date": "2025-02-19T22:00:00+01:00",
                     "size": 80201287,
@@ -81,6 +89,22 @@
                 "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr9.jpg"
             ],
             "versions": [
+                {
+                    "version": "20.09.3",
+                    "date": "2025-03-03T22:00:00+01:00",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/avoykxzhhfhakwp17e1w6/YouTubePlus_20.09.3_5.1.ipa?rlkey=hr4q7hd7obkfv9yw0mqodornm&st=fddkol60&dl=1",
+                    "localizedDescription": "Current YouTube IPA: 20.09.3\nCurrent YTLitePlus Version: 5.1.0\nCurrent App Compatibility: iOS/iPadOS 15.0 or later\n\nRELEASE 20.09.3-5.1.0: (2024-03-03)\n- Updated Youtube to 20.09.3",
+                    "size": 113496022,
+                    "minOSVersion": "15.0"
+                },
+                {
+                    "version": "20.08.3",
+                    "date": "2025-03-01T22:00:00+01:00",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/n4dvofs5hcb8t5nz0udkv/YouTubePlus_20.08.3_5.1.ipa?rlkey=oq1atqbvcrmywru29ctoebkx4&st=k5cdzo5l&dl=1",
+                    "localizedDescription": "Current YouTube IPA: 20.08.3\nCurrent YTLitePlus Version: 5.1.0\nCurrent App Compatibility: iOS/iPadOS 15.0 or later\n\nRELEASE 20.08.3-5.1.0: (2024-03-01)\n- Updated Youtube to 20.08.3",
+                    "size": 113298410,
+                    "minOSVersion": "15.0"
+                },
                 {
                     "version": "20.07.6",
                     "date": "2025-02-19T22:00:00+01:00",
