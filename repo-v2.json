@@ -1,5 +1,6 @@
 {
     "name": "MAD's Repo",
+    "identifier": "com.mad.repo",
     "subtitle": "MrAlucardDante's Alstore repo",
     "description": "Tweaked versions of popular apps",
     "iconURL": "https://raw.githubusercontent.com/MrAlucardDante/altstore-source/refs/heads/main/images/icon.png",
