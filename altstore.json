@@ -99,6 +99,14 @@
             ],
             "versions": [
                 {
+                    "version": "20.10.3",
+                    "date": "2025-03-10T22:00:00+01:00",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/8grwvufyawfvt7kbppamq/YouTubePlus_2.10.3_5.1.ipa?rlkey=b8s3ydmldao07emzu3u36zd1s&st=51x5dkly&dl=1",
+                    "localizedDescription": "Current YouTube IPA: 20.10.3\nCurrent YTLitePlus Version: 5.1.0\nCurrent App Compatibility: iOS/iPadOS 15.0 or later\n\nRELEASE 20.10.3-5.1.0: (2024-03-10)\n- Updated Youtube to 20.10.3",
+                    "size": 113732531,
+                    "minOSVersion": "15.0"
+                },
+                {
                     "version": "20.09.3",
                     "date": "2025-03-03T22:00:00+01:00",
                     "downloadURL": "https://www.dropbox.com/scl/fi/avoykxzhhfhakwp17e1w6/YouTubePlus_20.09.3_5.1.ipa?rlkey=hr4q7hd7obkfv9yw0mqodornm&st=fddkol60&dl=1",
