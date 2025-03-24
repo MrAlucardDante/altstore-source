@@ -2,6 +2,24 @@
     "apps": [
         {
             "beta": false,
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "developerName": "Dayanch96",
+            "downloadURL": "https://www.dropbox.com/scl/fi/969qx7tdun8uj7rwlxn7k/YTMusicUltimate_8.11_2.3.1.ipa?rlkey=qj6jmz8idnfufgqrx6inpg58w&st=6tobfh2u&dl=1",
+            "iconURL": "https://raw.githubusercontent.com/MrAlucardDante/altstore-source/refs/heads/main/images/youtubemusic-logo.png",
+            "localizedDescription": "A modified version of Youtube Music supercharged with YTMusicUltimate",
+            "name": "YTMusicUltimate",
+            "screenshotURLs": [
+                "https://user-images.githubusercontent.com/38832025/235781207-6d1ad44e-0c32-4aec-9c75-cb928ca8a0d3.png?raw=true)"
+            ],
+            "size": 81085179,
+            "subtitle": "The best enhancement for the YouTube Music on iOS.",
+            "tintColor": "ec421b",
+            "version": "8.11.3",
+            "versionDate": "2025-03-24T22:00:00+01:00",
+            "versionDescription": "Current YouTube Music IPA: 8.11.3\nCurrent YTMusicUltimate Version: 2.3.1\nCurrent App Compatibility: iOS/iPadOS 15.0 or later\n\nRELEASE 8.11.3-2.3.1: (2025-03-24)\n- Updated Youtube Music to v8.11.3"
+        },
+        {
+            "beta": false,
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "Dayanch96",
             "downloadURL": "https://www.dropbox.com/scl/fi/gz31ejbc5dz6fl64gv1mn/YouTubePlus_20.11.6_5.1.ipa?rlkey=n3ws7daas33r1cllk0kt6rrdc&st=e8a73do5&dl=1",
