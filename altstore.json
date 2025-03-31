@@ -28,6 +28,14 @@
             ],
             "versions": [
                 {
+                    "version": "8.12.3",
+                    "date": "2025-03-31T22:00:00+01:00",
+                    "size": 81261846,
+                    "downloadURL": "https://www.dropbox.com/scl/fi/9tldk5vmx7fjhrtzsgkwf/YTMusicUltimate_8.12.3_2.3.1.ipa?rlkey=9cp2urjqdj3joipox6w195pcx&st=uyvyqczc&dl=1",
+                    "localizedDescription": "Current YouTube Music IPA: 8.12.3\nCurrent YTMusicUltimate Version: 2.3.1\nCurrent App Compatibility: iOS/iPadOS 15.0 or later\n\nRELEASE 8.12.3-2.3.1: (2025-03-31)\n- Updated Youtube Music to v8.12.3",
+                    "minOSVersion": "15.0"
+                },
+                {
                     "version": "8.11.3",
                     "date": "2025-03-24T22:00:00+01:00",
                     "size": 81085179,
