@@ -2,6 +2,32 @@
     "apps": [
         {
             "beta": false,
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "Dayanch96",
+            "downloadURL": "https://www.dropbox.com/scl/fi/c275mbjxzj4ftemn7ujea/YouTubePlus_20.14.2_5.2b1.ipa?rlkey=dew7v4hbblgrq1s1fj3v1cejz&st=eoz3o9is&dl=1",
+            "iconURL": "https://raw.githubusercontent.com/MrAlucardDante/altstore-source/refs/heads/main/images/youtube-logo.png",
+            "localizedDescription": "YouTubePlus: YouTube enhancement providing no ads, background playback, customizable navigation and tab bars; includes Advanced mode with over 50 additional options for enhanced customization.\niSponsorBlock: Skips annoying sponsor ads inside videos. iSponsorBlock is based on SponsorBlock engine. Basically, this is the iOS version of the SponsorBlock extension.\nYouPiP: Enable YouTube’s native PiP. More options are in YouTube Settings => General.\nYTUHD: Unlock VP9 codec and in effect, enables video quality of 2K and 4K. You can configure YTUHD in YouTube’s Settings - Video quality preferences.\nYouTube Dislike Return: Brings back Dislike counts under YouTube videos using ReturnYoutubeDislike’s API.",
+            "name": "YoutubePlus",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr1.jpg",
+                "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr2.jpg",
+                "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr3.jpg",
+                "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr4.jpg",
+                "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr5.jpg",
+                "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr6.jpg",
+                "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr7.jpg",
+                "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr8.jpg",
+                "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr9.jpg"
+            ],
+            "size": 114541323,
+            "subtitle": "YouTubePlus: YouTube enhancement providing no ads, background playback, customizable navigation and tab bars; includes Advanced mode with over 50 additional options for enhanced customization.",
+            "tintColor": "e22a41",
+            "version": "20.14.2",
+            "versionDate": "2025-04-08T22:00:00+01:00",
+            "versionDescription": "Current YouTube IPA: 20.14.2\nCurrent YTLitePlus Version: 5.2b1\nCurrent App Compatibility: iOS/iPadOS 15.0 or later\n\nRELEASE 20.14.2-5.2b1: (2024-04-08)\n- Updated Youtube to 20.14.2"
+        },
+        {
+            "beta": false,
             "bundleIdentifier": "com.google.ios.youtubemusic",
             "developerName": "Dayanch96",
             "downloadURL": "https://www.dropbox.com/scl/fi/lgv7g645sul1a12hf5ynv/YTMusicUltimate_8.13.3_2.3.1.ipa?rlkey=e3xmxx9avthg8pvxxo2xonrz7&st=mz1q97gf&dl=1",
