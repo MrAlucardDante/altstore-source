@@ -28,6 +28,14 @@
             ],
             "versions": [
                 {
+                    "version": "8.16.3",
+                    "date": "2025-04-23T22:00:00+01:00",
+                    "size": 81392195,
+                    "downloadURL": "https://www.dropbox.com/scl/fi/ga76iua3hzsf3jjrt1xzr/YTMusicUltimate_8.16_2.3.1.ipa?rlkey=cunw4xd2rmurdwkhikfuf316w&st=s3pmfrcn&dl=1",
+                    "localizedDescription": "Current YouTube Music IPA: 8.16.3\nCurrent YTMusicUltimate Version: 2.3.1\nCurrent App Compatibility: iOS/iPadOS 15.0 or later\n\nRELEASE 8.16.3-2.3.1: (2025-04-23)\n- Updated Youtube Music to v8.16.3",
+                    "minOSVersion": "15.0"
+                },
+                {
                     "version": "8.13.3",
                     "date": "2025-04-07T22:00:00+01:00",
                     "size": 81392195,
@@ -122,6 +130,14 @@
                 "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr9.jpg"
             ],
             "versions": [
+                {
+                    "version": "20.15.1",
+                    "date": "2025-04-23T22:00:00+01:00",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/uncojcfuuln3tmk5t2h9a/YouTubePlus_20.15.1_5.2b1.ipa?rlkey=ufk4jp0ccrcav8pt7yyezldfb&st=iyagnnnw&dl=1",
+                    "localizedDescription": "Current YouTube IPA: 20.15.1\nCurrent YTLitePlus Version: 5.2b1\nCurrent App Compatibility: iOS/iPadOS 15.0 or later\n\nRELEASE 20.15.1-5.2b1: (2024-04-23)\n- Updated Youtube to 20.15.1",
+                    "size": 114541323,
+                    "minOSVersion": "15.0"
+                },
                 {
                     "version": "20.14.2",
                     "date": "2025-04-08T22:00:00+01:00",
