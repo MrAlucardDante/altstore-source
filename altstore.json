@@ -32,11 +32,11 @@
             ],
             "versions": [
                 {
-                    "version": "20.25.4",
-                    "date": "2025-06-24T22:00:00+01:00",
-                    "downloadURL": "https://www.dropbox.com/scl/fi/04yrr349o6uo8w3y0sjo6/YouTubePlus_20.25.4_5.2b1.ipa?rlkey=isqdvo6qiqsdo3ys546fv224y&st=kx0hkig3&dl=1",
-                    "localizedDescription": "Current YouTube IPA: 20.25.4\nCurrent YTLitePlus Version: 5.2b1",
-                    "size": 120287581,
+                    "version": "20.26.7",
+                    "date": "2025-07-09T22:00:00+01:00",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/pj7q4yrmx4c81mi8ejj8p/YouTubePlus_20.26.7_5.2b1.ipa?rlkey=tmyadaaabmv3xes28ttwprfy2&st=ksw96fcu&dl=1",
+                    "localizedDescription": "Current YouTube IPA: 20.26.7\nCurrent YTLitePlus Version: 5.2b1",
+                    "size": 120499671,
                     "minOSVersion": "16.0"
                 }
             ],
@@ -59,11 +59,11 @@
             ],
             "versions": [
                 {
-                    "version": "8.25",
-                    "date": "2025-06-24T22:00:00+01:00",
-                    "size": 93987824,
-                    "downloadURL": "https://www.dropbox.com/scl/fi/v4d0gqlgtw7lk6lil0elc/YTMusicUltimate_8.25_2.3.1.ipa?rlkey=hei2kkph39u0pbyhkf85pk5c1&st=epvsj68a&dl=1",
-                    "localizedDescription": "Current YouTube Music IPA: 8.25\nCurrent YTMusicUltimate Version: 2.3.1",
+                    "version": "8.26",
+                    "date": "2025-07-09T22:00:00+01:00",
+                    "size": 94128316,
+                    "downloadURL": "https://www.dropbox.com/scl/fi/egsaibpprb2m5e5671arp/YTMusicUltimate_8.26_2.3.1.ipa?rlkey=gzmulavuwlumry0aq34vap1ph&st=ww0g9re6&dl=1",
+                    "localizedDescription": "Current YouTube Music IPA: 8.26\nCurrent YTMusicUltimate Version: 2.3.1",
                     "minOSVersion": "16.0"
                 }
             ],
