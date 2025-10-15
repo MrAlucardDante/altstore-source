@@ -91,6 +91,14 @@
             ],
             "versions": [
                 {
+                    "version": "8.41",
+                    "date": "2025-10-16T22:00:00+01:00",
+                    "size": 100231553,
+                    "downloadURL": "https://www.dropbox.com/scl/fi/6w0pj6re135how8tfx6jq/YTMusicUltimate_8.41_2.3.1.ipa?rlkey=y8517yia0t0mh0uvaxb6dcyvr&st=64eqbif1&dl=1",
+                    "localizedDescription": "Current YouTube Music IPA: 8.41\nCurrent YTMusicUltimate Version: 2.3.1",
+                    "minOSVersion": "16.0"
+                },
+                {
                     "version": "8.34.3",
                     "date": "2025-08-29T22:00:00+01:00",
                     "size": 95892089,
@@ -105,8 +113,26 @@
     "news": [
         {
             "title": "New version of Youtube available",
+            "identifier": "youtube_20.41.5",
+            "caption": "Updated Youtube to 20.41.5",
+            "date": "2025-10-16",
+            "tintColor": "#E22A41",
+            "notify": true,
+            "appID": "com.google.ios.youtube"
+        },
+        {
+            "title": "New version of Youtube Music available",
+            "identifier": "youtubemusic_8.41",
+            "caption": "Updated Youtube Music to 8.41",
+            "date": "2025-10-16",
+            "tintColor": "#EC421B",
+            "notify": true,
+            "appID": "com.google.ios.youtube"
+        },
+        {
+            "title": "New version of Youtube available",
             "identifier": "youtube_20.39.5",
-            "caption": "Updated to Youtube 20.39.5",
+            "caption": "Updated Youtube to 20.39.5",
             "date": "2025-10-01",
             "tintColor": "#E22A41",
             "notify": true,
