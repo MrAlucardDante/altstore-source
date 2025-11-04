@@ -32,6 +32,14 @@
             ],
             "versions": [
                 {
+                    "version": "20.44.2",
+                    "date": "2025-11-04T22:00:00+01:00",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/07se6pae0tgjqlaaocvfj/YouTubePlus_20.44.2_5.2b3.ipa?rlkey=5p8mksh3rjd29m7iu55pu4hfu&st=0gzpuado&dl=1",
+                    "localizedDescription": "Current YouTube IPA: 20.44.2\nCurrent YTLitePlus Version: 5.2b3",
+                    "size": 127966506,
+                    "minOSVersion": "16.0"
+                },
+                {
                     "version": "20.41.5",
                     "date": "2025-10-16T22:00:00+01:00",
                     "downloadURL": "https://www.dropbox.com/scl/fi/qk18mdymcdcy287s5aeth/YouTubePlus_20.41.5_5.2b3.ipa?rlkey=eqkg9hwffp1ay94payb05ebvo&st=mu6wn5c0&dl=1",
